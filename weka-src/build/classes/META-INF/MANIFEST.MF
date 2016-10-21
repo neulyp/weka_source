@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: neuly
+Build-Jdk: 1.8.0_91
+Main-Class: weka.gui.GUIChooser
+Created-By: Maven Integration for Eclipse
+
